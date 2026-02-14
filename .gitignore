@@ -1,0 +1,9 @@
+node_modules
+.env
+dist
+.parcel-cache
+.next
+out
+build
+.DS_Store
+.vercel
